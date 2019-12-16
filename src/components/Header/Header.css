@@ -1,0 +1,18 @@
+.navbar{
+    height: 100px;
+}
+.nav-item{
+    margin-right: 30px;
+}
+.nav-logo{
+    font-size: 28px;
+    font-weight: bold;
+    border: 1px solid #fff;
+    padding: 10px 15px;
+    margin-right: 35px;
+    box-shadow: 0 0 5px 3px rgba(255, 255, 255, 1);
+}
+.Night{
+    font-size: 28px;
+    font-weight: normal;
+}
